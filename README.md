@@ -5,3 +5,4 @@ Please preserve sorted order (by first name).
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Yuri Chernyak https://github.com/yurichernyak
